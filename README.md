@@ -7,7 +7,7 @@ The redesign focuses on a premium educational visual identity, clear conversion-
 ##  Live Demo
 
 - **Live Website:** https://tishomepageredesign.vercel.app
-- **GitHub Repository:** https://github.com/anandkundurthi/tis-homepage-redesign
+- **GitHub Repository:** https://github.com/anandkundurthi/tis_homepage_redesign.git
 
 ##  Project Highlights
 
